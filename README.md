@@ -6,14 +6,14 @@ Este projeto tem como foco examinar os dados do Campeonato Brasileiro de Futebol
 
 **1 - Quais vencerram mais partidas?**
 
-**3 - Qual marcol maior saldo de gols?**
+**3 - Qual marcou maior saldo de gols?**
 
 **4 - Quais as marcas de gols sofridos e feitos?**
 
 **5 - Qual o desempenho do time por estadio jogado?**
 
 ## Fonte Dos Dados
-Os dados originais foram extraídos atravez de uma API diponibilizada pelo canal de you tube do Laennder Alves, onde tem como fonte o site da UOL. 
+Os dados originais foram extraídos atravez de uma API disponibilizada pelo canal de you tube do Laennder Alves, onde tem como fonte o site da UOL. 
 
 O código da API está anexada aos arquivos do repositorio em um doc txt.
 
